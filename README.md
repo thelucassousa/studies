@@ -1,1 +1,1 @@
-# curso
+# studies
