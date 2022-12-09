@@ -4,15 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Curso_modulo_01
+namespace constantes
 {
-    //Aula atual: sempre;
     internal class Program
     {
         static void Main(string[] args)
         {
-            //finalizado aula 17
         }
     }
 }
-
