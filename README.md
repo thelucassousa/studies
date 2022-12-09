@@ -14,3 +14,7 @@ With the idea of uploading everything that has been and is being studied in the 
 
 <img src="https://user-images.githubusercontent.com/110639073/205706281-eb9ae5b9-9b46-4444-bf8c-2bc603dc8df7.gif"/>
 
+<h3> 🎄 December / 2022 </h3>
+<p>
+    [part 02] - Started C# course and getting to know a new language.
+</p>
