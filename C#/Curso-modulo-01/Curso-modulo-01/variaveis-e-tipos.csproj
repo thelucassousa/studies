@@ -50,14 +50,18 @@
     <Compile Include="condicionais\Exercicio-03.cs" />
     <Compile Include="constante.cs" />
     <Compile Include="EntradaDeDados.cs" />
+    <Compile Include="Enum.cs" />
     <Compile Include="Funcoes.cs" />
     <Compile Include="funcoes\Exercicio-01.cs" />
     <Compile Include="funcoes\Exercicio-02.cs" />
     <Compile Include="funcoes\Exercicio-03.cs" />
+    <Compile Include="MenuEnum.cs" />
     <Compile Include="OperadoresAritmeticos.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Switch.cs" />
     <Compile Include="Variavel-e-Tipo.cs" />
+    <Compile Include="While.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

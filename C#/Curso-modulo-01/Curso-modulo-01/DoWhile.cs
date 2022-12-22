@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace Curso_modulo_01
 {
-    //Aula atual: sempre;
-    internal class Program
+    internal class DoWhile
     {
-       public static void Main(string[] args)
+
+        /*
+         
+               public static void Main(string[] args)
         {
             int contador = 100;
             do
@@ -19,7 +21,8 @@ namespace Curso_modulo_01
 
 
             Console.ReadLine();
-        }
+        } 
+
+         */
     }
 }
-
