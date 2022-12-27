@@ -49,6 +49,7 @@
     <Compile Include="condicionais\Exercicio-02.cs" />
     <Compile Include="condicionais\Exercicio-03.cs" />
     <Compile Include="constante.cs" />
+    <Compile Include="DoWhile.cs" />
     <Compile Include="EntradaDeDados.cs" />
     <Compile Include="Enum.cs" />
     <Compile Include="Funcoes.cs" />
