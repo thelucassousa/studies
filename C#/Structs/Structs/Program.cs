@@ -19,8 +19,8 @@ namespace Structs
 
             public Produto(string nome, float preco, float peso, string marca)
             {
-                this.nome = nome; // o que a linha está dizendo:l variavel do atributo recebe variavel do parametro - lembrando que quando estou chamando "nome" estou me referenciando ao parametro da função e não ao atributo, lembrar do escopo.
-                this.preco = preco;//lembrando que precisa declarar todos e não somente um.
+                this.nome = nome;
+                this.preco = preco;
                 this.peso = peso;
                 this.marca = marca;
             }
@@ -30,15 +30,15 @@ namespace Structs
         static void Main(string[] args)
         {
 
-            /*
-            Produto computador = new Produto();
-            computador.nome = "Ideaped 330s";
-            computador.marca = "Lenovo";
-            computador.peso = 1.2f;
-            computador.preco = 3999f;
-            */
+            //antes do construtor
+            Produto ideaped330s = new Produto();
+            ideaped330s.nome = "Ideaped 330s";
+            ideaped330s.marca = "Lenovo";
+            ideaped330s.peso = 1.2f;
+            ideaped330s.preco = 3999f;
 
-            Produto computador = new Produto("Ideaped 330s", 3999f, 1.2f, "Lenovo");
+            //apos o construtor
+            Produto inspironI15 = new Produto("Inspiron I15", 2999f, 1.6f, "Lenovo");
         }
     }
 }
